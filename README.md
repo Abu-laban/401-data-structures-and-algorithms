@@ -18,6 +18,7 @@ To run your tests
 - run `npm test` to run all of the tests
 - run `npm test ##` to only run tests for challenge ## (i.e. 01)
 
-| Code Challenges                                                   |                   |
-| ----------------------------------------------------------------- | ----------------- |
-| [Class 01](javascript/code-challenges/reverse-an-array/README.md) | Reverse an array. |
+| Code Challenges                                                   |                     |
+| ----------------------------------------------------------------- | ------------------- |
+| [Class 01](javascript/code-challenges/reverse-an-array/README.md) | Reverse an array.   |
+| [Class 02](javascript/code-challenges/insertShiftArray/README.md) | insert Shift Array. |
