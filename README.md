@@ -23,3 +23,4 @@ To run your tests
 | [Class 01](javascript/code-challenges/reverse-an-array/README.md)    | Reverse an array.   |
 | [Class 02](javascript/code-challenges/array-insert-shift/README.md)  | insert Shift Array. |
 | [Class 03](javascript/code-challenges/array-binary-search/README.md) | Binary Search.      |
+| [Class 04](javascript/code-challenges/sum-array/README.md)           | Sum Array.          |
