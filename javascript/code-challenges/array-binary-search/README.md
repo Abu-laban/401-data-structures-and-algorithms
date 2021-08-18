@@ -1,4 +1,4 @@
-# Reverse an Array
+# Binary Search
 
 <!-- Description of the challenge -->
 
