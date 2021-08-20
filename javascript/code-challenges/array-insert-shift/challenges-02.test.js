@@ -24,15 +24,31 @@ Output
 
 let insertShiftArray = (arr, num) => {
 
-    let val = arr.length / 2;
-    let idx = 0;
-    if (val % 2 === 0) {
-        idx = val;
+    let newArray = [];
+
+    if (arr.length % 2 === 0) {
+        let middel = arr.length / 2;
+
+        for (let i = 0; i < arr.length; i++) {
+            if (middel === i) {
+                newArray.push(num);
+
+            }
+            newArray.push(arr[i]);
+
+        }
     } else {
-        idx = val + 1;
+        let middel = Math.ceil(arr.length / 2);
+        for (let i = 0; i < arr.length; i++) {
+            if (middel === i) {
+                newArray.push(num);
+
+            }
+            newArray.push(arr[i]);
+
+        }
     }
-    arr.splice(idx, 0, num);
-    return arr;
+    return newArray;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -42,12 +58,12 @@ All the code below will verify that your functions are working to solve the chal
 
 DO NOT CHANGE any of the below code.
 
-Run your tests from the console: jest challenges-01.test.js
+Run your tests from the console: jest challenges-02.test.js
 
 ------------------------------------------------------------------------------------------------ */
 
-describe('Testing challenge 1', () => {
-    it('It returns an array of numbers reversed', () => {
+describe('Testing challenge 2', () => {
+    it('It returns an array added number on middle of it', () => {
         expect(insertShiftArray([2, 4, 6, -8], 5)).toStrictEqual([2, 4, 5, 6, -8]);
         expect(insertShiftArray([42, 8, 15, 23, 42], 16)).toStrictEqual([42, 8, 15, 16, 23, 42]);
     });
