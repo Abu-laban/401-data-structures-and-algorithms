@@ -1,4 +1,6 @@
+
 # Insert Shift Array
+
 
 <!-- Description of the challenge -->
 
@@ -14,4 +16,4 @@ Write a function called `insertShiftArray` which takes in an array and a value t
 
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
 
-Using simple function that take array and number put the num at middle of tha array by using splic array method.
+Using simple function that take array and number put the num at middle of tha array.
