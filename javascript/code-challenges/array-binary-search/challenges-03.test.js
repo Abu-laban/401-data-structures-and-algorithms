@@ -22,9 +22,18 @@ Output
 
 let BinarySearch = (arr, num) => {
 
-    for (let index = 0; index < arr.length; index++) {
-        if (arr[index] === num) {
-            return index;
+    let start = 0;
+    let end = arr.length - 1;
+
+    while (start <= end) {
+        let middle = Math.ceil((start + end) / 2);
+
+        if (arr[middle] === num) {
+            return middle;
+        } else if (arr[middle] < num) {
+            start = middle + 1;
+        } else {
+            end = middle - 1;
         }
     }
     return -1;
@@ -37,7 +46,7 @@ All the code below will verify that your functions are working to solve the chal
 
 DO NOT CHANGE any of the below code.
 
-Run your tests from the console: jest challenges-01.test.js
+Run your tests from the console: jest challenges-03.test.js
 
 ------------------------------------------------------------------------------------------------ */
 
