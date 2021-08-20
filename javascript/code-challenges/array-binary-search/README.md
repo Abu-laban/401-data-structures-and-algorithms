@@ -14,4 +14,4 @@ Write a function called BinarySearch which takes in 2 parameters: a sorted array
 
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
 
-simple for loop to iterate over the given array, checking if the element of the array is equal to the given search key then returned the index,or -1 if the element is not in the array.
+simple while loop to iterate over the given array, checking if the element of the array is equal to the given search key then returned the index,or -1 if the element is not in the array.
