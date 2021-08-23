@@ -26,3 +26,4 @@ To run your tests
 | [Class 04](javascript/code-challenges/sum-array/README.md)              | Sum Array.              |
 | [Class 05](javascript/code-challenges/linked-list/README.md)            | Linked List.            |
 | [Class 06](javascript/code-challenges/linked-list-insertions/README.md) | Linked List Insertions. |
+| [Class 07](javascript/code-challenges/linked-list-kth/README.md)        | Linked List kth.        |
