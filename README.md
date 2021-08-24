@@ -27,3 +27,4 @@ To run your tests
 | [Class 05](javascript/code-challenges/linked-list/README.md)            | Linked List.            |
 | [Class 06](javascript/code-challenges/linked-list-insertions/README.md) | Linked List Insertions. |
 | [Class 07](javascript/code-challenges/linked-list-kth/README.md)        | Linked List kth.        |
+| [Class 08](javascript/code-challenges/linked-list-zip/README.md)        | Linked List zip.        |
