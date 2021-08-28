@@ -1,4 +1,4 @@
-# linked list zip
+# Reverse Linked List
 
 <!-- Description of the challenge -->
 

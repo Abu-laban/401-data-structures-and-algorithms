@@ -29,3 +29,4 @@ To run your tests
 | [Class 07](javascript/code-challenges/linked-list-kth/README.md)        | Linked List kth.        |
 | [Class 08](javascript/code-challenges/linked-list-zip/README.md)        | Linked List zip.        |
 | [Class 09](javascript/code-challenges/reverse-linked-list/README.md)    | Reverse Linked List.    |
+| [Class 10](javascript/code-challenges/stack-and-queue/README.md)        | Stack & Queue.          |
