@@ -8,7 +8,7 @@ Reverse a Singly Linked List
 
 <!-- Embedded whiteboard image -->
 
-![linked-list-kth](./reverseLinkedList.png)
+![reverse-linked-list](./reverseLinkedList.png)
 
 ## Approach & Efficiency
 

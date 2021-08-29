@@ -8,7 +8,7 @@ Write a function called BinarySearch which takes in 2 parameters: a sorted array
 
 <!-- Embedded whiteboard image -->
 
-![insertShiftArray](./BinarySearch.png)
+![array-binary-search](./BinarySearch.png)
 
 ## Approach & Efficiency
 
