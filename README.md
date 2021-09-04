@@ -34,3 +34,4 @@ To run your tests
 | [Class 12](javascript/code-challenges/stack-queue-animal-shelter/README.md) | Stack Queue Animal Shelter. |
 | [Class 13](javascript/code-challenges/stack-queue-brackets/README.md)       | Stack Queue Brackets.       |
 | [Class 14](javascript/code-challenges/duck-duck-goose/README.md)            | Duck Duck Goose.            |
+| [Class 15](javascript/code-challenges/trees/README.md)                      | Trees.                      |
