@@ -33,3 +33,4 @@ To run your tests
 | [Class 11](javascript/code-challenges/stack-queue-pseudo/README.md)         | Stack Queue Pseudo.         |
 | [Class 12](javascript/code-challenges/stack-queue-animal-shelter/README.md) | Stack Queue Animal Shelter. |
 | [Class 13](javascript/code-challenges/stack-queue-brackets/README.md)       | Stack Queue Brackets.       |
+| [Class 14](javascript/code-challenges/duck-duck-goose/README.md)            | Duck Duck Goose.            |
