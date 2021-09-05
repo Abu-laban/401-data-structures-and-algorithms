@@ -35,3 +35,4 @@ To run your tests
 | [Class 13](javascript/code-challenges/stack-queue-brackets/README.md)       | Stack Queue Brackets.       |
 | [Class 14](javascript/code-challenges/duck-duck-goose/README.md)            | Duck Duck Goose.            |
 | [Class 15](javascript/code-challenges/trees/README.md)                      | Trees.                      |
+| [Class 16](javascript/code-challenges/tree-max/README.md)                   | Tree Max.                   |
