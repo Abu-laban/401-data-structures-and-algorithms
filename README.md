@@ -36,3 +36,4 @@ To run your tests
 | [Class 14](javascript/code-challenges/duck-duck-goose/README.md)            | Duck Duck Goose.            |
 | [Class 15](javascript/code-challenges/trees/README.md)                      | Trees.                      |
 | [Class 16](javascript/code-challenges/tree-max/README.md)                   | Tree Max.                   |
+| [Class 17](javascript/code-challenges/tree-breadth-first/README.md)         | Tree Breadth First.         |
