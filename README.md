@@ -38,3 +38,4 @@ To run your tests
 | [Class 16](javascript/code-challenges/tree-max/README.md)                   | Tree Max.                   |
 | [Class 17](javascript/code-challenges/tree-breadth-first/README.md)         | Tree Breadth First.         |
 | [Class 18](javascript/code-challenges/tree-fizz-buzz/README.md)             | Tree Fizz Buzz.             |
+| [Class 19](javascript/code-challenges/sum-odd-bst/README.md)                | Sum Odd Bst.                |
