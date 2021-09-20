@@ -40,3 +40,4 @@ To run your tests
 | [Class 18](javascript/code-challenges/tree-fizz-buzz/README.md)             | Tree Fizz Buzz.             |
 | [Class 19](javascript/code-challenges/sum-odd-bst/README.md)                | Sum Odd Bst.                |
 | [Class 26](javascript/code-challenges/Insertion/README.md)                  | Insertion Sort.             |
+| [Class 27](javascript/code-challenges/Merge/README.md)                      | Merge Sort.                 |
