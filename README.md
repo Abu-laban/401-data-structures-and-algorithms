@@ -41,3 +41,4 @@ To run your tests
 | [Class 19](javascript/code-challenges/sum-odd-bst/README.md)                | Sum Odd Bst.                |
 | [Class 26](javascript/code-challenges/Insertion/README.md)                  | Insertion Sort.             |
 | [Class 27](javascript/code-challenges/Merge/README.md)                      | Merge Sort.                 |
+| [Class 28](javascript/code-challenges/Quick/README.md)                      | Quick Sort.                 |
