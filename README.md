@@ -42,3 +42,4 @@ To run your tests
 | [Class 26](javascript/code-challenges/Insertion/README.md)                  | Insertion Sort.             |
 | [Class 27](javascript/code-challenges/Merge/README.md)                      | Merge Sort.                 |
 | [Class 28](javascript/code-challenges/Quick/README.md)                      | Quick Sort.                 |
+| [Class 30](javascript/code-challenges/hashtable/README.md)                  | Hash Tables.                |
