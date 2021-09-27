@@ -44,3 +44,4 @@ To run your tests
 | [Class 28](javascript/code-challenges/Quick/README.md)                      | Quick Sort.                 |
 | [Class 30](javascript/code-challenges/hashtable/README.md)                  | Hash Tables.                |
 | [Class 31](javascript/code-challenges/hashmap-repeated-word/README.md)      | Hashmap Repeated Word.      |
+| [Class 32](javascript/code-challenges/hashmap-tree-intersection/README.md)  | Hashmap Tree Intersection.  |
