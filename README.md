@@ -45,3 +45,4 @@ To run your tests
 | [Class 30](javascript/code-challenges/hashtable/README.md)                  | Hash Tables.                |
 | [Class 31](javascript/code-challenges/hashmap-repeated-word/README.md)      | Hashmap Repeated Word.      |
 | [Class 32](javascript/code-challenges/hashmap-tree-intersection/README.md)  | Hashmap Tree Intersection.  |
+| [Class 33](javascript/code-challenges/hashmap-left-join/README.md)          | Hashmap Left Join.          |
