@@ -47,3 +47,4 @@ To run your tests
 | [Class 32](javascript/code-challenges/hashmap-tree-intersection/README.md)  | Hashmap Tree Intersection.  |
 | [Class 33](javascript/code-challenges/hashmap-left-join/README.md)          | Hashmap Left Join.          |
 | [Class 34](javascript/code-challenges/unique-characters/README.md)          | Unique Characters.          |
+| [Class 35](javascript/code-challenges/graph/README.md)                      | Graph.                      |
